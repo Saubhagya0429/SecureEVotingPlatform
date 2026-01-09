@@ -1,20 +1,17 @@
 # SecureEVotingPlatform
 1. A secure Online Voting System designed to ensure confidentiality integrity and transparency in digital election.
 2. The system implements user authentication , encrypted vote storage , and secure result calculation to prevent fraud , unauthorized access , and vote manipulation.
-
-# SecureEVotingPlatform
-1. A secure Online Voting System designed to ensure confidentiality integrity and transparency in digital election.
-2. The system implements user authentication , encrypted vote storage , and secure result calculation to prevent fraud , unauthorized access , and vote manipulation.
 Your README.md MUST include:
 # Project Title
+1. Secure Online Voting System
 
 ## Group Information
 - **Student 1:** [T.A.Saubhagya Nirmandi] - [ITBIN-2313-0073] - Role: [Devops ENgineergit]
-- **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
-- **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+- **Student 2:** [W.M.Pavitha Praboadhi] - [ITBIN-2313-0084] - Role: [Full Stack Engineer]
 
 ## Project Description
-[Brief description of what your application does]
+1. A secure Online Voting System designed to ensure confidentiality integrity and transparency in digital election.
+2. The system implements user authentication , encrypted vote storage , and secure result calculation to prevent fraud , unauthorized access , and vote manipulation.
 
 ## Live Deployment
 🔗 **Live URL:** [Your deployed application URL]
@@ -28,7 +25,6 @@ Your README.md MUST include:
 ## Features
 - Feature 1
 - Feature 2
-- Feature 3
 
 ## Branch Strategy
 We implemented the following branching strategy:
