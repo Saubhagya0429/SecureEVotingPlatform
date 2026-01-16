@@ -10,14 +10,18 @@
 ## Features - Feature 1 - Feature 2 - Feature 3 
 ## Branch Strategy 
 We implemented the following branching strategy: - `main` - Production branch - `develop` - Integration branch - `feature/*` - Feature development branches 
+
 ## Individual Contributions 
 ### [T.A. Saubhagya Nirmandi] 
 - Repository setup and configuration 
 - GitHub Actions CI/CD pipeline implementation 
 - Deployment setup and management 
-- [This section was added by DevOps Engineer.] 
-### [Student 2 Name] - [List specific features developed] - [List specific commits/contributions] 
-### [Student 3 Name] - [List specific features developed] - [List specific commits/contributions] 
+- This section was added by DevOps Engineer.
+- 
+### [Student 2 Name] 
+- [List specific features developed]
+- [List specific commits/contributions] 
+ 
 ## Setup Instructions 
 ### Prerequisites - Node.js (version 18 or higher) - Git 
 ### Installation 
