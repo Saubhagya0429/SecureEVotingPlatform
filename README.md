@@ -11,7 +11,7 @@
 ## Branch Strategy 
 We implemented the following branching strategy: - `main` - Production branch - `develop` - Integration branch - `feature/*` - Feature development branches 
 ## Individual Contributions 
-### [Student 1 Name] 
+### [T.A. Saubhagya Nirmandi] 
 - Repository setup and configuration 
 - GitHub Actions CI/CD pipeline implementation 
 - Deployment setup and management 
