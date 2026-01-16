@@ -1,7 +1,12 @@
  
-## Group Information - **Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] - **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] - **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] 
+## Group Information 
+- **Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+- **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+- **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+  
 ## Project Description 
 [Brief description of what your application does] 
+
 ## Live Deployment 
 �
 �
