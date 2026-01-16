@@ -8,8 +8,6 @@
 [Brief description of what your application does] 
 
 ## Live Deployment 
-�
-�
 **Live URL:** [Your deployed application URL] 
 ## Technologies Used - HTML5, CSS3, JavaScript - [Any frameworks/libraries used] - GitHub Actions - [Deployment platform name] 
 ## Features - Feature 1 - Feature 2 - Feature 3 
