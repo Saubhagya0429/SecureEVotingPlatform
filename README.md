@@ -14,6 +14,19 @@ We implemented the following branching strategy: - `main` - Production branch - 
 ### [Student 1 Name] - Repository setup and configuration - GitHub Actions CI/CD pipeline implementation - Deployment setup and management - [List specific commits/features] 
 ### [Student 2 Name] - This section was added by Full-Stack Developer. 
 ### [Student 3 Name] - [List specific features developed] - [List specific commits/contributions] 
+
+## Individual Contributions 
+### [T.A. Saubhagya Nirmandi] 
+- Repository setup and configuration 
+- GitHub Actions CI/CD pipeline implementation 
+- Deployment setup and management 
+- This section was added by DevOps Engineer.
+- 
+### [W.M.Pavitha Praboadhi] 
+- [Repository setup and configuration]
+- [GitHub Actions CI/CD pipeline implementation]
+ 
+develop
 ## Setup Instructions 
 ### Prerequisites - Node.js (version 18 or higher) - Git 
 ### Installation 
@@ -205,4 +218,8 @@ git pull origin develop
 git checkout main 
 git merge develop 
 git push origin main 
+<<<<<<< HEAD
 # This should trigger your deployment workflow
+=======
+# This should trigger your deployment workflow
+>>>>>>> develop
