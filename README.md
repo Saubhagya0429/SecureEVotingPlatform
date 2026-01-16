@@ -4,8 +4,8 @@
 - **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
 - **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
 ## Conflict Test
-Added by DevOps Engineer
-  
+Added by both DevOps Engineer and Full Stack Developer
+
 ## Project Description 
 [Brief description of what your application does] 
 
