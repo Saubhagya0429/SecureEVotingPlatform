@@ -162,7 +162,11 @@ git push origin develop
 Create Deployment Workflow: 
 1. Create file: .github/workflows/deploy.yml 
 2. Add the deployment configuration 
-3. Commit and push 
+3. Commit and push
+## CI/CD Pipeline
+This project uses GitHub Actions to demonstrate Continuous Integration (CI).
+The pipeline runs automatically on push and pull request events to the develop branch.
+Some workflow runs may fail due to incomplete test configurations, which is acceptable for this assignment.
 Step 11: Cloud Deployment Setup 
 Option A: Vercel (Recommended) 
 Setup Steps: 
