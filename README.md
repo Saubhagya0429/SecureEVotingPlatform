@@ -18,9 +18,9 @@ We implemented the following branching strategy: - `main` - Production branch - 
 - Deployment setup and management 
 - This section was added by DevOps Engineer.
 - 
-### [Student 2 Name] 
-- [List specific features developed]
-- [List specific commits/contributions] 
+### [W.M.Pavitha Praboadhi] 
+- [Repository setup and configuration]
+- [GitHub Actions CI/CD pipeline implementation]
  
 ## Setup Instructions 
 ### Prerequisites - Node.js (version 18 or higher) - Git 
