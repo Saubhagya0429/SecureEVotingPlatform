@@ -1,25 +1,36 @@
- 
-## Group Information 
-- **Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
-- **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
-- **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+ ## Group Information 
+- **Student 1:** [T.A. Saubhagya Nirmandi] - [ITBIN-2313-0073] - Role: [Devops Engineer]
+- **Student 2:** [W.M. Pavitha Praboadhi] - [ITBIN-2313-0084] - Role: [Full Stack Engineer]
+
 ## Conflict Test
 Added by both DevOps Engineer and Full Stack Developer
 
 ## Project Description 
-[Brief description of what your application does] 
+[Secure and Reliable online voting system with user authentication, encrypted voting, and transparent result management.] 
 
 ## Live Deployment 
-�
-�
-**Live URL:** [Your deployed application URL] 
-## Technologies Used - HTML5, CSS3, JavaScript - [Any frameworks/libraries used] - GitHub Actions - [Deployment platform name] 
-## Features - Feature 1 - Feature 2 - Feature 3 
+**Live URL:** [Your deployed application URL]
+
+## Technologies Used 
+- HTML5, CSS3, JavaScript
+- [Any frameworks/libraries used]
+- GitHub Actions
+- [Deployment platform name]
+- 
+## Features 
+- Feature 1
+- Feature 2
+- Feature 3
+  
 ## Branch Strategy 
-We implemented the following branching strategy: - `main` - Production branch - `develop` - Integration branch - `feature/*` - Feature development branches 
+We implemented the following branching strategy: 
+- `main` - Production branch
+- `develop` - Integration branch
+- `feature/*` - Feature development branches 
 
 ## Individual Contributions 
-### [Student 1 Name] 
+
+### [T.A. Saubhagya Nirmandi] 
 - Repository setup and configuration 
 - GitHub Actions CI/CD pipeline implementation 
 - Deployment setup and management 
@@ -30,7 +41,11 @@ We implemented the following branching strategy: - `main` - Production branch - 
 - [GitHub Actions CI/CD pipeline implementation]
  
 ## Setup Instructions 
-### Prerequisites - Node.js (version 18 or higher) - Git 
+
+### Prerequisites 
+- Node.js (version 18 or higher)
+- Git
+  
 ### Installation 
 ```bash 
 # Clone the repository 
