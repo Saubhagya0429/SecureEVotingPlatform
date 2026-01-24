@@ -12,15 +12,13 @@ Added by both DevOps Engineer and Full Stack Developer
 **Live URL:** [Your deployed application URL]
 
 ## Technologies Used 
-- HTML5, CSS3, JavaScript
-- [Any frameworks/libraries used]
+-php , java script , css
 - GitHub Actions
-- [Deployment platform name]
+- [vercel]
 - 
 ## Features 
-- Feature 1
-- Feature 2
-- Feature 3
+- feature/conflict-test-devops
+- feature/ci-cd-setup
   
 ## Branch Strategy 
 We implemented the following branching strategy: 
@@ -35,10 +33,10 @@ We implemented the following branching strategy:
 - GitHub Actions CI/CD pipeline implementation 
 - Deployment setup and management 
 - This section was added by DevOps Engineer.
-- 
+  
 ### [W.M.Pavitha Praboadhi] 
-- [Repository setup and configuration]
-- [GitHub Actions CI/CD pipeline implementation]
+- Repository setup and configuration
+- GitHub Actions CI/CD pipeline implementation
  
 ## Setup Instructions 
 
